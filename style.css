@@ -1,0 +1,31 @@
+body {background-color: black;}
+body {
+    color: rgb(255, 255, 255);
+  }
+  
+  h1 {
+    color: rgb(255, 255, 255);
+  }
+  .h1 {
+    font-family: "Times New Roman", Times, serif;
+  }
+  .a {
+    font-family: "Times New Roman", Times, serif;
+  }
+
+body {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Times New Roman", Times, serif;
+    background-image:url(wallpapersden.com_cool-4k-pattern_3840x2160.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+a {color: rgb(0, 221, 255);
+    transition: 1s;
+        
+        
+        }
+        a:hover{color: rgb(0, 157, 255);}
+        {
